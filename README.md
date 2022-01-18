@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kwabena
 - 👀 I’m interested in Mechanical/Computer Engineering 
-- 🌱 I’m currently learning LoRaWAN communication with Adafruit Feather M0 and TTGO LoRa32 V1 OLED
+- 🌱 I’m currently learning on working with Microcontrollers
 - 💞️ I’m looking to collaborate on ...nothing yet
 - 📫 How to reach me aboateng381@gmail.com
 

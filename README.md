@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kwabena
 - 👀 I’m interested in Mechanical/Computer Engineering 
 - 🌱 I’m currently learning on working with Microcontrollers
-- 💞️ I’m looking to collaborate on ...nothing yet
+- 💞️ I’m looking to collaborate on ...software dev for embedded systems
 - 📫 How to reach me aboateng381@gmail.com
 
 <!---

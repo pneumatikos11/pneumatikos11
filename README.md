@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kwabena Afari Boateng</h1>
-<h3 align="center">Keenly interested in Robotics</h3>
+<h3 align="center">Keenly interested in Mechanical and Firmware Systems</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

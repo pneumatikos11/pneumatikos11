@@ -12,5 +12,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pneumatikos11&label=Profile%20views&color=0e75b6&style=flat" alt="pneumatikos11" /> </p>
 
-<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pneumatikos11&theme=dark&mode=weekly&fire=DD2727)](https://git.io/streak-stats)" alt="pneumatikos11" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pneumatikos11&theme=dark&mode=weekly&fire=DD2727)](https://git.io/streak-stats)
 
